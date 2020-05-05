@@ -1,0 +1,6 @@
+exoscale_key = "EXO..."
+exoscale_secret = "..."
+exoscale_zone = "at-vie-1"
+server_admin_users = {
+  "youruser": "ssh-rsa AAAAB..."
+}
